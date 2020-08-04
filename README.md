@@ -1,4 +1,4 @@
-![About Me](.github/bio.gif)
+![About Me](https://raw.githubusercontent.com/willerrodrigo/willerrodrigo/master/.github/bio.gif)
 
 <!--
 **willerrodrigo/willerrodrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
