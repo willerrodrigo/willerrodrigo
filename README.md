@@ -1,7 +1,7 @@
 # Willer Rodrigo
-### A technology enthusiast who provides the best of all worlds for the development of applications that lead to the best user experiences.
+### A technology enthusiast who provides the best of all worlds for developing applications that lead to the best user experiences.
 
-⤷ I am currently studying and working with Javascript working in the React and React Native ecosystem, developing front-end applications.
+⤷ I am currently studying and working with Javascript in the React and React Native ecosystem, developing front-end applications.
 
  <a aligh="left" href="mailto:willerrodrigo2006@hotmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/willerrodrigo" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
 
